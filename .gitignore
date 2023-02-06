@@ -1,3 +1,4 @@
 *.jff
+*\__pycache__
 \build
 \dist

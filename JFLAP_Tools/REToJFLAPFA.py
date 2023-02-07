@@ -98,6 +98,6 @@ def REToJFLAPFA(regex: str)->Automaton:
 
         i -= 1
 
-    automaton.cleanup()
+    automaton.finish()
 
     return automaton
